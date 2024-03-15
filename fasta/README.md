@@ -9,14 +9,13 @@ THISISASEQUENCE
 
 ## How to visualize :eyes:
 
-As a text-based file, depending on the file size, you can open FASTA files with text-editors like Notepad, Sublime.
+As a text-based file, depending on the file size, you can open FASTA files with any text-editors like Notepad, Sublime.
 
 If you don't have such apps, you can open this file in a bash terminal using `cat`.
 
 ```bash
 cat file.fa
 ```
-
 
 ##
 ## References :book:
